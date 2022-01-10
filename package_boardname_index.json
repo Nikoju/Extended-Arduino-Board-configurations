@@ -4,7 +4,7 @@
       "name": "Atmega16u2",
       "maintainer": "NikoJu",
       "websiteUrl": "https://github.com/Nikoju",
-      "Url": "",
+      "Url": "https://github.com/Nikoju/Extended-Arduino-Board-configurations/blob/main/package_boardname_index.json",
       "email": "nikojutube@gmail.com",
       "platforms": [
         {
