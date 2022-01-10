@@ -1,4 +1,4 @@
-# Extended-Arduino-Board-configurations
+# Atmega16u2 for Arduino IDE
 (Experimental!) Added Atmega16u2 to the standard arduino boards configs
 
 I've added the ATmega16u2 to the standard Arduino IDEs board collection. I can't guarantee anything as it's just a first try.
