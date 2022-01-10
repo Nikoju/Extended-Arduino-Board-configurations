@@ -4,7 +4,7 @@
       "name": "Atmega16u2",
       "maintainer": "NikoJu",
       "websiteUrl": "https://github.com/Nikoju",
-      "Url": "https://github.com/Nikoju/Extended-Arduino-Board-configurations/blob/main/package_boardname_index.json",
+      "Url": "",
       "email": "nikojutube@gmail.com",
       "platforms": [
         {
@@ -13,10 +13,10 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "Arduino",
-          "url": "https://github.com/Nikoju/Extended-Arduino-Board-configurations/blob/main/Atmega16u2.zip",
+          "url": "https://github.com/Nikoju/Extended-Arduino-Board-configurations/blob/4cf86464c97f025bf7cc7ef105c70f2d9c444752/Atmega16u2.zip",
           "archiveFileName": "Atmega16u2.zip",
           "checksum": "SHA-256:0E84FF74B228F8BC304C4B091429DA6E58C1A6FD7C84C1ED612C8E754F026B5E",
-          "size": 512000,
+          "size": 509302,
           "boards": [
             {
               "name": "Atmega16u2"
